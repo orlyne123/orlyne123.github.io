@@ -1,0 +1,97 @@
+
+<!DOCTYPE html
+<html>
+	<head>
+		<title>ORLYNETOUKAM</title>
+		<link rel = "stylesheet" href = "style.css">
+	</head>
+	<body>
+		<header>
+			<h1>ORLYNE NICLAIRE KOUONANG PEUEMI 23U2508 </h1>
+		</header>
+		<main>
+			<section class = "presentation">
+				<h1>Presentation</h1>
+				<p>Je suis ORLYNE TOUKAM etudiante a l'universite de yaounde 1 en ICT4D L1.J'ai un baccalaureat scientifique(C)je fais dans la vente d'huile raffinee <br>BUT: reussir a vendre en quantite l'huile raffinee en ligne </p>
+			</section>
+
+			<section class = "informations">
+				<h1>Informations personnelles</h1>
+				<p><strong>Nom:</strong> KOUONANG PEUEMI</p>
+				<p><strong>Prenoms:</strong> ORLYNE NICLAIRE </p>
+				<p><strong>Date de naissance:</strong> 24/09/2003</p>
+				<p><strong>lieu de naissance:</strong> bangou-chefferie</p>
+				<p><strong>nationalite:</strong> camerounaise </p>
+				<p><strong>sexe:</strong> feminin </p>
+				<p><strong>contact:</strong> 676098217/659468331</p>
+				<p><strong>adresse gmail</strong> orlynetoukam@gmail.com </p>
+			</section>
+
+			<section class = "hobby">
+				<h1>Hobbies</h1>
+				<ul>
+					<li>Danse</li>
+					<li>Music</li>
+					<li>Contes</li>
+				</ul>
+			</section>
+
+			<section class = "diplome">
+				<h1>Diplome</h1>
+				<ul>
+					<li>CEP (2017)</li>
+					<li>BEPC (2019)</li>
+					<li>PROBATOIRE (2022)</li>
+					<li>BAC Serie C (2023)</li>
+				</ul>
+			</section>
+
+			<section class = "activite">
+				<h1>Activite</h1>
+				<ul>
+					<li>vente d'huile dans la ville</li>
+					<li>vente d'huile hors de la ville</li>
+					<li>livraison d'huile en gros</li>
+					<li>livraison d'huile en detail</li>
+					<li>formation pour la fabrication</li>
+				<ul>
+			<section class = "format">
+				<h1>Format</h1>
+				<ul>
+					<li>le quar de litre</li>
+					<li> le demi litre </li>
+					<li>le un litre</li>
+					<li>le un litre et demi</li>
+					<li>le deux litres </li>
+					<li>le cinq litres</li>
+					<li>le dix litres</li>
+					<li>le vingt litres</li>
+				</ul>	
+			</section>  
+
+			<section class = "prix">
+				<h1>Prix</h1>
+				<ul>
+					<li>quatre cent</li>
+					<li>sept cent</li>
+					<li>mille quatre cent</li>
+					<li>deux mille cent franc</li>
+					<li>deux mille huit cent</li>
+					<li>quatre mille cinq cent</li>
+					<li>huit mille</li>
+					<li>quinze mille cinq cent</li>
+				</ul>
+			</section> 
+
+			<section class = "presentation">
+				<h1>Presentation</h1>
+
+				<p1> l'huile raffinee plus connue sous le nom huile d'arachide,est tres riches en lipide ce qui participe bien sur  a l'alimentation de l'hommme .En effet cela  est utilise pour la preparation des aliments affricains,et des autres continents.au cameroun la plus part de la population la consomme car elle est moin cher et fais de delices dans la cuisson!</p1>
+			</section>
+
+			
+
+		</main>
+	</body>
+
+</html>
